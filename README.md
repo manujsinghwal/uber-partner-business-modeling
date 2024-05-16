@@ -1,7 +1,7 @@
 # Uber Partner Business Modeling
 \
 ![uber](https://github.com/manujsinghwal/uber-partner-business-modeling/assets/40256851/c3a37a53-5866-4837-baef-81999bcd1664)
-\
+
 ### Assignment
 \
 **Scenario 1:** It is going to be a huge Saturday and there will need to be many more cars on the road than last week. In order to get drivers to go online, we're assessing the following two bonus options in terms of cost:
