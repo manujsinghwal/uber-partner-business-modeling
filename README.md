@@ -29,6 +29,7 @@ Insurance - $400 per month
 \
 Vehicle rent (by the week) - $500
 \
+\
 The driver doesn't pay gas and rent expenses on off weeks.
 \
 \
