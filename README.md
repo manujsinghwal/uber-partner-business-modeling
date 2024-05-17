@@ -41,7 +41,6 @@ Given Scenario 2, provide answers to the questions below:
 6. You are convincing the same driver above to buy a Town Car and partner with Uber. Assuming the new car is 40,000 USD, how much would the driver's gross fares need to increase per week to fully pay for the car in year 1 and maintain the same yearly profit margin as before?
 \
 ### Data Description
-\
 The dataset is given in the file uber_partner.csv. The data come from rides on a busy Saturday and are aggregated on a driver level. The dataset provides information on the total number of completed trips, the driver's acceptance rate, the total number of hours on duty, and the average rating.
 \
 \
